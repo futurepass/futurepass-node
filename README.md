@@ -1,8 +1,3 @@
-# Future Pass Platform
-## SDK for NodeJS
+# NodeJS library for the Future Pass Platform
 
-## Installation
-
-```
-Coming Soon
-```
+Coming Soon...
