@@ -1,0 +1,32 @@
+{
+  "name": "futurepass",
+  "version": "0.0.1",
+  "description": "NodeJS library for the Future Pass Platform",
+  "main": "lib/futurepass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurepass/futurepass-node.git"
+  },
+  "keywords": [
+    "future pass",
+    "futurepass",
+    "cyber security",
+    "fraud",
+    "fraud prevention",
+    "identity management",
+    "identity",
+    "authentication"
+  ],
+  "author": "Future Pass <hello@futurepass.io>",
+  "contributors": [
+    "Chris Iona <chris@futurepass.io>"
+  ],    
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurepass/futurepass-node/issues"
+  },
+  "homepage": "https://github.com/futurepass/futurepass-node"
+}
